@@ -8,6 +8,7 @@ class ExecDockApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("Test");
     }
 
 }
